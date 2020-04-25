@@ -1,0 +1,15 @@
+.pone
+{
+		height: 110px;
+    	background-color: gray;
+    	border:2px solid black;
+      
+}
+.ptwo
+{
+		background-color: gray;
+	    border:2px solid black;
+}
+.row {
+  width: 100%;
+}
